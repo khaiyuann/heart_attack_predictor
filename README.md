@@ -1,7 +1,7 @@
 ![badge](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 # heart_attack_predictor
- This program is used to develop a model which assess the risk of a patient for heart attack based on the patient's medical data using RandomTreeClassifer.
+ This program is used to develop a model which assess the risk of a patient for heart attack based on the patient's medical data using RandomTreeClassifier.
 
 # How to use
 Clone the repository and use the following scripts per your use case:
